@@ -5,7 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=osodracpt)
 
+<a href="https://www.hackthebox.eu/profile/39239">
 <img src="http://www.hackthebox.eu/badge/image/39239" alt="Hack The Box">
+</a>
 <br>
 <!---
 <a href="https://tryhackme.com/p/OsodracPT"><img src="https://tryhackme-badges.s3.amazonaws.com/OsodracPT.png" alt="TryHackMe"></a>
