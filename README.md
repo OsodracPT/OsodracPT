@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=osodracpt)
 
 <img src="http://www.hackthebox.eu/badge/image/39239" alt="Hack The Box">
-<a href="https://tryhackme.com/p/twsterlab"><img src="https://i.ibb.co/zsyvCYZ/THM.png" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/twsterlab"><img src="https://tryhackme-badges.s3.amazonaws.com/OsodracPT.png" alt="TryHackMe"></a>
 <br>
 
 ### 🛠 &nbsp;Tech Stack
