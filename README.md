@@ -62,7 +62,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://pedrocardoso.co.uk/"><img src="https://img.shields.io/badge/-pedrocardoso.co.uk-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://pedrocardoso.eu/"><img src="https://img.shields.io/badge/-pedrocardoso.eu-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pedroosodrac/"><img src="https://img.shields.io/badge/-Pedro%20Cardoso-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/osodracpt"><img src="https://img.shields.io/badge/-@OsodracPT-1769FF?style=flat&logo=Github&logoColor=white"/></a>
 <a href="https://www.youtube.com/user/Osodrac98/"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
