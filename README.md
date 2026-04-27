@@ -3,8 +3,6 @@
 
 **_Computer technician, systems administrator, researcher, pentester, ctf player._**
 
-![](https://komarev.com/ghpvc/?username=osodracpt)
-
 <a href="https://www.hackthebox.eu/profile/39239">
 <img src="http://www.hackthebox.eu/badge/image/39239" alt="Hack The Box">
 </a>
